@@ -1,0 +1,5 @@
+parcial_note1=float(input("escriba la nota obtenida en el primer parcial :"))
+parcial_note2=float(input("escriba la nota obtenida en el segundo parcial :"))
+parcial_note3=float(input("escriba la nota obtenida en el tercer parcial :"))
+promedio=float((parcial_note1+parcial_note2+parcial_note3)/3)
+print("el promedio de notas es =",promedio)
